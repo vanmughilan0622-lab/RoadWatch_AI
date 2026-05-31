@@ -10,6 +10,7 @@ doc.add_paragraph('The selected topic for this hackathon submission is: Road SOS
 
 # Project Overview
 doc.add_heading('2. Project Overview', level=1)
+doc.add_paragraph('GitHub Repository: https://github.com/vanmughilan0622-lab/RoadWatch_AI')
 doc.add_paragraph(
     'RoadWatch AI is a public audit platform and real-time anomaly detection system. '
     'It aims to solve the lack of transparency in municipal road repair budgets and empower '
